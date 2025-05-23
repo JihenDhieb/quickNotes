@@ -1,4 +1,4 @@
 ## 📱 Screenshots
 
-<img src="" alt="QuickNotes " width="300"/>
+<img src="Design sans titre.png" alt="QuickNotes " width="300"/>
 
